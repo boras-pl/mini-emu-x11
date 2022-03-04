@@ -17,3 +17,4 @@ git clone https://github.com/boras-pl/mini-emu-x11.git
 cd mini-emu-x11
 ./01_run_as_root.sh
 ```
+
